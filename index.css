@@ -1,0 +1,46 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto ;
+    max-width: 100% ;
+    height: auto ;
+    text-align: center;
+}
+form {
+    background-color: #7061cb;
+    align-items: center;
+    color: white;
+    width: 865px; 
+    margin: auto;
+    border:#574b99;
+    padding:8px;
+    margin-left: auto;
+}
+h1{
+    color: #8b7de4;
+    text-align: center;
+}
+
+div{
+    align-content: center;
+    text-align: center;
+}
+#table{
+    margin-top: -20px;
+    margin-left: 180px;
+    
+}
+#abc{
+    vertical-align: top;
+}
+#firstname, #lastname, #dob, #email, #mn, #city, #pincode, #state, #country, #others {
+    width:150px;
+}
+#address{
+    height: 60px;
+    width: 300px;
+}

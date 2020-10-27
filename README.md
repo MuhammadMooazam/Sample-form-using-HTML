@@ -1,0 +1,1 @@
+Assignment 2 of Saylani Mobile and Hybrid App and my deployed github website link is https://muhammadmooazam.github.io/SaylaniWebAndMobileAppAssignment-2/ or https://webdevelopmentproject1-308ea.web.app
